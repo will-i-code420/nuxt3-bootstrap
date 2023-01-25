@@ -2,6 +2,7 @@
   <div>
     <TheNavBar />
     <TheHero />
+    <TheAlbum />
     <NuxtWelcome />
     <TheFeatures />
     <TheFooter />
