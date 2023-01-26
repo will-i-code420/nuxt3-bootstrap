@@ -1,10 +1,5 @@
 <template>
-  <div>
-    <TheNavBar />
-    <TheHero />
-    <TheAlbum />
-    <NuxtWelcome />
-    <TheFeatures />
-    <TheFooter />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
