@@ -45,7 +45,7 @@
     <div class="position-sticky pt-3 sidebar-sticky">
       <ul class="list-unstyled flex-column mb-auto">
         <template v-for="(link,i) in sidebarLinks" :key="link">
-          <sidebar-menu-item :item="link"></sidebar-menu-item>
+          <nav-menu-item :item="link"></nav-menu-item>
         </template>
       </ul>
       <hr>
