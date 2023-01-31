@@ -11,6 +11,9 @@
       items: [
         { label: 'Album', icon: 'bi bi-images', to: '/uikit/album' },
         { label: 'Features', icon: 'bi bi-list-stars', to: '/uikit/features' },
+        { label: 'Headers', icon: '', to: '/uikit/headers' },
+        { label: 'Heroes', icon: '', to: '/uikit/heroes' },
+        { label: '', icon: '', to: '' },
       ]
     },
     {
