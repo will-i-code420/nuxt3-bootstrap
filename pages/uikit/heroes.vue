@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: heroes examples
+    <TheHeroes />
   </div>
 </template>
 
