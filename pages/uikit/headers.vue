@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: headers examples
+    <TheHeaders />
   </div>
 </template>
 
