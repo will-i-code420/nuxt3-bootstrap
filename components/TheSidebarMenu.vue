@@ -13,7 +13,7 @@
         { label: 'Features', icon: 'bi bi-list-stars', to: '/uikit/features' },
         { label: 'Headers', icon: '', to: '/uikit/headers' },
         { label: 'Heroes', icon: '', to: '/uikit/heroes' },
-        { label: '', icon: '', to: '' },
+        { label: 'Sidebars', icon: '', to: '/uikit/sidebars' },
       ]
     },
     {
